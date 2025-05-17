@@ -1,0 +1,20 @@
+{
+    "filters": [
+      {
+        "name": "EXAMPLE_FILTER_NAME",
+        "url": "https://paste-your-page-1-url-here&start=0"
+      }
+      /*  Add more filter objects as needed:
+      {
+        "name": "ANOTHER_FILTER",
+        "url": "https://..."
+      }
+      */
+    ],
+  
+    "navigationWait": 5371, 
+    "scrollDistance": 343,
+    "scrollWait": 428,
+    "nameSelector": "span[data-test-row-lockup-full-name] a"
+  }
+  

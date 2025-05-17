@@ -1,0 +1,21 @@
+{
+  "name": "linkedin_scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "author": "",
+  "license": "ISC",
+
+  "scripts": {
+    "scrape": "node scrape.js",
+    "postinstall": "playwright install chromium",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [],
+
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "playwright": "^1.52.0"
+  }
+}

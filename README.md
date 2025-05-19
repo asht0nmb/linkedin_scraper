@@ -30,9 +30,7 @@ A simple Node.js + Playwright script to extract names from LinkedIn Recruiter se
 
 - Node.js v16+  
 - npm (bundled with Node.js)  
-- A LinkedIn Recruiter seat with saved-search URLs  
-- Permission to install NPM packages and run Playwright  
-
+- A LinkedIn Recruiter seat with saved-search URLs
 ---
 
 ## Installation
